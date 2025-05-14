@@ -8,5 +8,9 @@ Prefer not to use var
 because of issue in block scope and functional scope
 */
 
+accountEmail = "sakshirajput25106@gmail.com"
+accountPassword = "1164200"
+accountCity = "Jammu"
+
 console.log(accountId);
-console.table([accountId, accountEmail, accountPassword, accountCity])
+console.table([accountId, accountEmail, accountPassword, accountCity]) //Easy method 
